@@ -1,0 +1,2 @@
+To run the method call the function PLSMRKurSD(Xp,yp,K) where Xp is the Matrix of dependent variables, yp is the vector of independent variables and K is the number PLS components to use
+
